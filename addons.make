@@ -1,0 +1,5 @@
+ofxBullet
+ofxAnimatable
+ofxUI
+ofxXmlSettings
+ofxSSAO
